@@ -214,6 +214,3 @@ with open(output_test, "w") as f:
        f.write(vid + "," + sentence + "\n")
 
 print("Generated Output File")
-print("Bleu Score: ")
-os.system("python bleu_eval.py {}".format(output_test))
-
