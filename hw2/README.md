@@ -16,6 +16,3 @@ Please specify a directory path containing directory feat/ inside with all the .
 To run training:
 python training.py
 
-
-Ignore hw2/hw2_1/.
-It's just an empty directory.
