@@ -9,7 +9,7 @@ For training, the directory must also contain the following:
 
 
 To run testing:
-sh hw2_seq2seq.sh testing_data/feat op.txt
+sh hw2_seq2seq.sh testing_data/feat output.txt
 
 Please specify a directory path containing directory feat/ inside with all the .npy files as 2nd argument.
 
