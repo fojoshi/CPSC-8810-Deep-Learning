@@ -4,3 +4,9 @@ Run the files as:
 python HW3_DCGAN.py - DCGAN
 python HW3_WGAN.py - WGAN
 python HW3_WGAN-GP.py - WGAN-GP
+
+
+Code to calculate Inception score and FID were taken from below reference:
+https://machinelearningmastery.com/how-to-implement-the-frechet-inception-distance-fid-from-scratch/
+https://machinelearningmastery.com/how-to-implement-the-inception-score-from-scratch-for-evaluating-generated-images/
+
