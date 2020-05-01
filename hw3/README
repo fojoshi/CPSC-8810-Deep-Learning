@@ -1,1 +1,6 @@
-dfvbfv
+Instructions:
+
+Run the files as: 
+python HW3_DCGAN.py - DCGAN
+python HW3_WGAN.py - WGAN
+python HW3_WGAN-GP.py - WGAN-GP
